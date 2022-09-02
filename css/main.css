@@ -1,0 +1,143 @@
+@font-face {
+	font-family: 'MONOGRAM';
+	src: url('../fonts/MONOGRAM.eot');
+	src: local('☺'), url('../fonts/MONOGRAM.woff') format('woff'), url('../fonts/MONOGRAM.ttf') format('truetype'), url('../fonts/MONOGRAM.svg') format('svg');
+	font-weight: normal;
+	font-style: normal;
+}
+body{
+    cursor: url(../img/cursor.png),auto;
+    width: 1903px;
+    height: 1080px;
+    background: url(../img/water.png);
+    padding: 0;
+    margin-left:auto;
+    margin-right:auto;
+    margin-top: 0;
+    min-width: 1903px;
+}
+::-webkit-scrollbar{
+    background-color: rgb(140, 115, 105);
+    width: 15px;
+}
+::-webkit-scrollbar-corner{
+    background-color: rgb(243, 233, 204);
+}
+::-webkit-scrollbar-thumb{
+    background-color: rgb(243, 233, 204);
+    border-radius: 6px;
+    border: 2px solid rgb(170, 121, 89);
+}
+.container {
+    width: 1903px;
+    height: 1080px;
+    margin: 0 auto;
+}
+div{
+    box-sizing: border-box;
+}
+header{
+    background: url(../img/1f\ stant\ an.gif) no-repeat center top / cover , url(../img/1f.png)no-repeat center top / cover ;
+    height: 1080px;
+    width: 1903px;
+}
+.butt{
+    float: left;
+    display: block;
+    margin-top: 500px;
+    margin-left: 817px;
+}
+.disbut{
+    position: relative;
+    top: 630px;
+    right: 300px;
+}
+.twitbut{
+    position: relative;
+    top: 516px;
+    right: 135px;
+}
+a{
+    cursor: url(../img/cursor2.png),auto;
+}
+.colnft{
+    margin-left: 251px;
+    margin-top: 190px;
+}
+#col{
+    background: url(../img/2f.png) no-repeat center top / cover; 
+}
+.conn{
+    width: 600px;
+    position: relative;
+    left: 1235px;
+    bottom: 598px;
+}
+.conn p{
+    font-family: 'MONOGRAM';
+    font-size: 33px;
+    color: rgb(157, 134, 111);
+    text-align: center;
+    line-height: 39.4px;
+    text-indent: 20px;
+    word-spacing:normal
+    
+}
+.vid{
+    color: rgb(144, 98, 93);
+}
+#col3{
+    background: url(../img/3f\ animation.gif)no-repeat center top / cover , url(../img/3f.png)no-repeat center top / cover;
+}
+.cobb{
+    width: 732px;
+    top: 58px;
+    left: 47px;
+    position: relative;
+    margin-left: 0 auto;
+    margin-right: 0 auto;
+}
+.cobb p{
+    font-family: 'MONOGRAM';
+    font-size: 33px;
+    color: rgb(136, 98, 65);
+    text-align: center;
+    line-height: 39.4px;
+    text-indent: 20px;
+    word-spacing:normal
+}
+.vidd{
+    color: rgb(144, 98, 93);
+}
+#col4{
+    background: url(../img/allgif.gif)no-repeat center top / cover , url(../img/coingif.gif) no-repeat center top / cover , url(../img/4f.png)no-repeat center top / cover;
+}
+.covv{
+    width: 590px;
+    position: relative;
+    left: 1273px;
+    top: 32px;
+}
+.covv p{
+    font-family: 'MONOGRAM';
+    font-size: 33px;
+    color: rgb(144, 98, 93);
+    text-align: center;
+    line-height: 39.4px;
+    text-indent: 18px;
+    word-spacing:normal
+}
+#col5{
+    background: url(../img/boat.gif)no-repeat center top / cover , url(../img/5f.png)no-repeat center top / cover;
+}
+#col6{
+    background: url(../img/6f.png)no-repeat center top / cover;
+}
+.copy{
+    font-family: 'MONOGRAM';
+    font-size: 28px;
+    color: rgb(144, 98, 93);
+    text-align: center;
+    position: relative;
+    top: 1030px;
+}
